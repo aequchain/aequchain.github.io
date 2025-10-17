@@ -37158,7 +37158,7 @@ A.Cy.prototype={
 ar(){var s=$.am(),r=t.H7
 return new A.Cz(new A.oB(B.eJ,s),new A.oB(B.eJ,s),new A.oB(B.eJ,s),new A.oB(B.eJ,s),A.c([],r),A.c([],r),null,null)}}
 A.Cz.prototype={
-gmy(){return"http://localhost:3000/api/testnet"},
+gmy(){return"https://unsympathetic-unhostilely-stacie.ngrok-free.app/api/testnet"},
 nX(){var s=0,r=A.S(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d,c,b
 var $async$nX=A.O(function(a,a0){if(a===1){o.push(a0)
 s=p}while(true)switch(s){case 0:c=m.d
