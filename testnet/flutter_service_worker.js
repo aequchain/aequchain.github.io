@@ -119,6 +119,16 @@ self.addEventListener("fetch", (event) => {
   if (event.request.method !== 'GET') {
     return;
   }
+  // Bypass service worker caching for API calls to the testnet backend
+  try {
+    const reqUrl = new URL(event.request.url);
+    if (reqUrl.pathname.startsWith('/api/testnet') || reqUrl.pathname.includes('/api/testnet')) {
+      // Let the network handle it directly
+      return;
+    }
+  } catch (e) {
+    // ignore URL parse errors and continue
+  }
   var origin = self.location.origin;
   var key = event.request.url.substring(origin.length + 1);
   // Redirect URLs to the index.html
