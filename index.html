@@ -57,6 +57,27 @@
   </style>
 </head>
 <body>
+  <!--
+    One-time service worker unregister helper.
+    Some browsers with previously-registered service workers may continue
+    serving old cached assets. This script attempts to unregister any
+    existing service worker so clients will fetch the latest files.
+    It's intentionally minimal and harmless; it runs once in the page
+    context before the Flutter bootstrap script.
+  -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      try {
+        navigator.serviceWorker.getRegistrations().then(function(regs) {
+          for (var i = 0; i < regs.length; i++) {
+            try { regs[i].unregister(); } catch(e) { /* ignore */ }
+          }
+        });
+      } catch(e) {
+        // ignore errors
+      }
+    }
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
