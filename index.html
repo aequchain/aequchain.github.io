@@ -19,6 +19,7 @@
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -31,6 +32,47 @@
 
   <title>efe</title>
   <link rel="manifest" href="manifest.json">
+
+  <style>
+    /* Mobile-friendly styles for text selection and code blocks */
+    ::selection {
+      background: #000000;
+      color: #ffffff;
+    }
+
+    ::-moz-selection {
+      background: #000000;
+      color: #ffffff;
+    }
+
+    /* Ensure text is selectable */
+    * {
+      -webkit-user-select: text;
+      -moz-user-select: text;
+      -ms-user-select: text;
+      user-select: text;
+    }
+
+    /* Make code blocks scrollable on mobile */
+    pre, code {
+      overflow-x: auto;
+      overflow-y: auto;
+      max-width: 100%;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    /* Improve touch targets for mobile */
+    button, .clickable {
+      min-height: 44px;
+      min-width: 44px;
+    }
+
+    /* Better scrolling on mobile */
+    body {
+      -webkit-overflow-scrolling: touch;
+    }
+  </style>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
