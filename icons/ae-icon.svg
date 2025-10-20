@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    text {
+      font-family: 'Times New Roman', 'Georgia', serif;
+      font-size: 28px;
+      font-weight: 400;
+      fill: #000000;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+  </style>
+  <text x="16" y="17">æ</text>
+</svg>

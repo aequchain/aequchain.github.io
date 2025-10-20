@@ -18,18 +18,20 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="A comprehensive guide to economic transformation through blockchain-enabled equitable distribution">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="efe">
+  <meta name="apple-mobile-web-app-title" content="EFE Guide">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/Icon-192.png"/>
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/Icon-512.png"/>
 
-  <title>efe</title>
+  <title>Equidistributed Free Economy Guide</title>
   <link rel="manifest" href="manifest.json">
 
   <style>
@@ -57,27 +59,6 @@
   </style>
 </head>
 <body>
-  <!--
-    One-time service worker unregister helper.
-    Some browsers with previously-registered service workers may continue
-    serving old cached assets. This script attempts to unregister any
-    existing service worker so clients will fetch the latest files.
-    It's intentionally minimal and harmless; it runs once in the page
-    context before the Flutter bootstrap script.
-  -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      try {
-        navigator.serviceWorker.getRegistrations().then(function(regs) {
-          for (var i = 0; i < regs.length; i++) {
-            try { regs[i].unregister(); } catch(e) { /* ignore */ }
-          }
-        });
-      } catch(e) {
-        // ignore errors
-      }
-    }
-  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
