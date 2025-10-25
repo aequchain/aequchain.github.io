@@ -62,7 +62,7 @@
 ```julia
 struct Farmdominium
     concept = """
-    Farmdominium: Portmanteau of 'Farm' + 'Condominium'
+    Farmdominium: Portmanteau of 'Farm' + 'Condominium' [renamable]
     
     Revolutionary vertical farming system featuring:
     ├─ Multiple rotating horizontal rings/disks
