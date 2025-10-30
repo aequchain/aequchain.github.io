@@ -4526,7 +4526,7 @@ struct LongevityModule
             
             Test(
                 name="Cognitive Function",
-                frequency="Annually",
+                frequency="Yearly",
                 measures=[
                     "Memory testing",
                     "Processing speed",
