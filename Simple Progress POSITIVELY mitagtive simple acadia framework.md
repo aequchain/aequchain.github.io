@@ -6,7 +6,7 @@ DISCLAIMER: Negative Words contained, proceed only if of mitagation
 kindly create chapter of mitagitive education system of Equidistrubuted Free Economy, all inclusive globally applicable.  of intent works of evolving and adaptable mittagative English subject options plan.  good intent being - mitagating being subject to information or being exploited through exposure to subjects and language.  having education systems that says "we only expose people negatives when they NEED exposure, only when they need, with very basic exposure prior at safe age"  so. intent is at safe age, introduce ONCE, only ONCE negative term, aiding informed future decisions - one example - gentle "cough". students learn word once, tested, display being of knowledge (all truth), continue with positive, informative, education, academic, other self-- | group | class | school | nation | global enhancement and education (proficiency's | activities, sports, recreation, etc) - student can in time, of choice, choose enhancing their expose, should they say, want doctortrites, nurse, pharmacists, etc.  this reflective throughout our education system through all choice, subject options, choice. langauge should also be considered throughout curriculum, from not knowing or exposed, ONE exposure, some at safe age increments, then into certain subjects, introductory unto greater exposure as they advance safely in education kindly plan complete framework | outline
 """
 
-//one can imagine enitire safe mitagating education systems from child to adult + beyond
+//one can imagine entire safe mitagating education systems from child to adult + beyond
 """
 
 ## Initial Concept Analysis
