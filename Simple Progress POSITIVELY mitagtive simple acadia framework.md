@@ -1,5 +1,7 @@
 # PLANNING PHASE: MITIGATIVE EDUCATION FRAMEWORK
 
+DISCLAIMER: Negative Words contained, proceed only if of mitagation
+
 ## Initial Concept Analysis
 
 **Core Intent:**
