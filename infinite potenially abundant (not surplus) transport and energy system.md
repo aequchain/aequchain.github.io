@@ -49,7 +49,7 @@
 - Include swarm coordination for flying vehicles
 - Expand on manufacturing at scale (EDS context)
 - Add detailed cost projections
-- Include environmental aeffect assessments
+- Include environmental aefect assessments
 - Add social acceptance strategies
 - Expand on integration with existing infrastructure
 - Include emergency response protocols
@@ -540,7 +540,7 @@ struct TransparentSolarCells
                 "Climate control assistance",
                 "Extend range 5-10%"
             ],
-            visibility="Minimal aeffect on driver vision (slight tint)"
+            visibility="Minimal aefect on driver vision (slight tint)"
         ),
         
         Integration(
@@ -749,7 +749,7 @@ struct VehicleSurfaceIntegration
             material="Embedded graphene sensors",
             thickness="Integrated (nanometers to micrometers)",
             functions=[
-                "Damage detection (aeffect, scratches)",
+                "Damage detection (aefect, scratches)",
                 "Temperature monitoring",
                 "Proximity sensing (parking assistance)",
                 "Pressure mapping (aerodynamics)",
@@ -777,7 +777,7 @@ struct VehicleSurfaceIntegration
             functions=[
                 "Thermal insulation (climate control)",
                 "Sound dampening (quiet cabin)",
-                "Additional aeffect protection",
+                "Additional aefect protection",
                 "Lightweight",
                 "Fire resistance"
             ]
@@ -1281,7 +1281,7 @@ function simulate_daily_usage()
         maintenance_cost=200,  # dollars (minimal)
         total_operating_cost=-252,  # dollars (NEGATIVE = vehicle pays you)
         
-        environmental_aeffect=[
+        environmental_aefect=[
             "CO2 avoided: 3.6 tons (vs gasoline)",
             "Gasoline not consumed: 1,600 liters",
             "Air quality: Zero local emissions",
@@ -1886,7 +1886,7 @@ function implement_advanced_drone_technologies()
             "Cost to members: FREE (vehicle lifetime exceeds human lifetime)",
             "Export: Technology licensing rather than hardware",
             "Society transformed: 3D urban planning, distributed living",
-            "Environmental: Zero emissions, silent, minimal aeffect"
+            "Environmental: Zero emissions, silent, minimal aefect"
         ]
     )
     
@@ -2084,7 +2084,7 @@ struct UrbanAirMobilitySystem
                 "Pilot licensing (if manual control)",
                 "Air corridor definitions (highway-like routes in 3D)",
                 "Noise regulations (community acceptance)",
-                "Environmental aeffect assessments",
+                "Environmental aefect assessments",
                 "Insurance requirements (liability coverage)",
                 "Maintenance standards (airworthiness)",
                 "Emergency procedures (standardized protocols)"
@@ -2121,7 +2121,7 @@ struct UrbanAirMobilitySystem
     ]
     
     societal_transformation = [
-        aeffect(
+        aefect(
             area="Urban Planning",
             changes=[
                 "3D city design (skyports integrated into buildings)",
@@ -2134,7 +2134,7 @@ struct UrbanAirMobilitySystem
             ]
         ),
         
-        aeffect(
+        aefect(
             area="Quality of Life",
             changes=[
                 "Commute time: Reduced 60-80% (fly direct)",
@@ -2147,7 +2147,7 @@ struct UrbanAirMobilitySystem
             ]
         ),
         
-        aeffect(
+        aefect(
             area="Economic",
             changes=[
                 "Real estate: Less premium on location (anywhere accessible)",
@@ -2160,7 +2160,7 @@ struct UrbanAirMobilitySystem
             ]
         ),
         
-        aeffect(
+        aefect(
             area="Environmental",
             changes=[
                 "Emissions: Zero (electric vehicles)",
@@ -2173,7 +2173,7 @@ struct UrbanAirMobilitySystem
             ]
         ),
         
-        aeffect(
+        aefect(
             area="Social Equity",
             changes=[
                 "Universal mobility (in EDS: everyone can fly)",
@@ -3188,7 +3188,7 @@ struct SwarmCoordinationSystem
         ),
         
         Optimization(
-            objective="Minimize noise aeffect",
+            objective="Minimize noise aefect",
             approach="Route over less noise-sensitive areas, altitude optimization",
             method="Noise model + population density optimization",
             improvement="50-70% noise exposure reduction"
@@ -3644,11 +3644,11 @@ struct TransportationManufacturingEcosystem
             "Cost: $2.25 billion",
             "Profit: $19.75 billion annually",
             "To national treasury: Increases all member values",
-            "Per member aeffect: $323/year additional (61M people)",
+            "Per member aefect: $323/year additional (61M people)",
             "Over 10 years: $3,230 per member value increase"
         ],
         
-        global_aeffect=[
+        global_aefect=[
             "Technology leader: Attract further investment",
             "Employment: 50,000+ high-skilled jobs",
             "Trade surplus: Dramatically improved",
@@ -3675,7 +3675,7 @@ struct ComprehensiveSafetySystem
     
     Layers:
     1. Prevent hazard (sensing, planning, avoidance)
-    2. Mitigate if unavoidable (collision prep, optimal aeffect)
+    2. Mitigate if unavoidable (collision prep, optimal aefect)
     3. Protect occupants (restraints, structure)
     4. Emergency response (automatic alert, location)
     5. System resilience (graceful degradation, safe mode)
@@ -3801,7 +3801,7 @@ struct ComprehensiveSafetySystem
             probability="Very low with autonomous systems",
             mitigation=[
                 "Automatic emergency braking/avoidance",
-                "Collision preparation (tighten restraints, position for aeffect)",
+                "Collision preparation (tighten restraints, position for aefect)",
                 "Crumple zones (energy absorption)",
                 "Strong passenger cell (graphene composite = very strong)",
                 "Airbags (multi-stage deployment)",
@@ -4242,7 +4242,7 @@ struct PublicAcceptanceStrategy
         Program(
             audience="Decision Makers (Government, Business)",
             content=[
-                "Economic analysis (cost-benefit, job aeffects)",
+                "Economic analysis (cost-benefit, job aefects)",
                 "Regulatory frameworks (international best practices)",
                 "Infrastructure requirements (vertiports, charging)",
                 "Safety evidence (testing data, incident reports)",
@@ -4289,7 +4289,7 @@ struct PublicAcceptanceStrategy
                 "Controlled environment (low risk)",
                 "Captive audience (students open to innovation)",
                 "High visibility (community sees daily)",
-                "Measurable aeffect (ridership, satisfaction)",
+                "Measurable aefect (ridership, satisfaction)",
                 "Research opportunity (data collection)"
             ],
             timeline="Year 1-2 of deployment",
@@ -4317,7 +4317,7 @@ struct PublicAcceptanceStrategy
                 "Life-saving (high value proposition)",
                 "Emergency priority (less traffic conflict)",
                 "Professional operators (not general public yet)",
-                "Measurable aeffect (response times, lives saved)",
+                "Measurable aefect (response times, lives saved)",
                 "Positive association (help people)"
             ],
             timeline="Year 3-5 of deployment",
@@ -4342,7 +4342,7 @@ struct PublicAcceptanceStrategy
             name="Rural Healthcare Access",
             scope="Flying vehicles connecting rural areas to hospitals",
             benefits=[
-                "Underserved population (high aeffect)",
+                "Underserved population (high aefect)",
                 "Geographic advantage (flying best solution)",
                 "Community support (addresses real need)",
                 "Minimal air traffic (lower complexity)",
@@ -4405,7 +4405,7 @@ struct PublicAcceptanceStrategy
         ),
         
         Metric(
-            name="Environmental aeffect",
+            name="Environmental aefect",
             target="50% reduction in transportation emissions",
             measurement="Fleet emissions tracking",
             reporting="Annual environmental reports",
@@ -4418,10 +4418,10 @@ struct PublicAcceptanceStrategy
         ),
         
         Metric(
-            name="Economic aeffect",
+            name="Economic aefect",
             target="$5,000 savings per household annually",
             measurement="Economic surveys",
-            reporting="Annual economic aeffect reports",
+            reporting="Annual economic aefect reports",
             components=[
                 "Vehicle costs (ownership or service)",
                 "Time savings (commute reduction)",
@@ -4928,7 +4928,7 @@ struct FutureTransportationScenario
             "Life expansion: Entire region accessible easily"
         ],
         
-        annual_aeffect=[
+        annual_aefect=[
             "Time saved: 100-150 hours annually (vs old commute)",
             "That's: 2-3 weeks of extra time for life",
             "Distance traveled: 20,000-30,000 km",
@@ -5005,50 +5005,50 @@ struct TransportationRevolutionSummary
         "Seamless integration with equidistributed economy"
     ]
     
-    transformative_aeffects = [
-        aeffect(
+    transformative_aefects = [
+        aefect(
             area="Personal Freedom",
             change="From constrained by geography to unlimited mobility",
             result="Live anywhere, work anywhere, connect with anyone"
         ),
         
-        aeffect(
+        aefect(
             area="Time",
             change="From 1-3 hours daily commuting to 15-45 minutes",
             result="100-150 hours annually returned to life"
         ),
         
-        aeffect(
+        aefect(
             area="Cost",
             change="From $8,000+ annually to FREE (in EDS)",
             result="Universal access, no financial barrier to mobility"
         ),
         
-        aeffect(
+        aefect(
             area="Environment",
             change="From polluting to net-positive (V2G + solar)",
             result="Clean air, climate stability, sustainable civilization"
         ),
         
-        aeffect(
+        aefect(
             area="Safety",
             change="From human error crashes to autonomous precision",
             result="90% reduction in accidents, thousands of lives saved"
         ),
         
-        aeffect(
+        aefect(
             area="Urban Design",
             change="From 2D cities to 3D integrated living",
             result="Green spaces replace parking, buildings have vertiports, beauty increased"
         ),
         
-        aeffect(
+        aefect(
             area="Social Equity",
             change="From mobility privilege to universal access",
             result="In EDS: Everyone flies, everyone connected, no one left behind"
         ),
         
-        aeffect(
+        aefect(
             area="Economic",
             change="From import dependence to export dominance",
             result="$20B+ annual export revenue, 150,000+ jobs, technology leadership"
