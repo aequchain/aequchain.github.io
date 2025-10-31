@@ -7,6 +7,7 @@ kindly create chapter of mitagitive education system of Equidistrubuted Free Eco
 """
 
 //one can imagine entire safe mitagating education systems from child to adult + beyond
+psycologically safe without limit
 """
 
 ## Initial Concept Analysis
