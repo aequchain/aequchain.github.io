@@ -4,6 +4,8 @@
 
 **Placement:** Insert as Chapter 10.4 "Advanced Transportation: Magnetic Propulsion and Autonomous Flight" within the Food Systems section OR create new Part VII: Advanced Technologies section
 
+// aefect = operable placeholder
+
 **Core Concepts to Cover:**
 1. Magnetically motorized electricity generators (dual function: motor + generator)
 2. Graphene and transparent solar materials for vehicles
