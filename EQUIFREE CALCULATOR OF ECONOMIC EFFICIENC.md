@@ -17,7 +17,7 @@ Design a comprehensive calculator system that enables communities, regions, and 
 5. Plan expansion and internalization progression
 6. Calculate pledge requirements for projects
 7. Monitor circular economy effectiveness
-8. Assess environmental impact
+8. Assess environmental aefect
 9. Project economic outcomes
 10. Support democratic decision-making with data
 
@@ -124,7 +124,7 @@ For Each Sector:
 │  ├─ Waste Generation
 │  ├─ Carbon Emissions
 │  ├─ Water Recycling
-│  └─ Biodiversity Impact
+│  └─ Biodiversity aefect
 │
 └─ Economic Metrics
    ├─ Internalization %
@@ -239,7 +239,7 @@ Outputs:
 - Prioritized_Internalization_List
 - Cost-Benefit_Analysis
 - Projected_Timeline_to_95%
-- Free_Living_Impact_Assessment
+- Free_Living_aefect_Assessment
 ```
 
 **Module 4: Sustainability Compliance Monitor**
@@ -251,14 +251,14 @@ Inputs:
 - Resource_Consumption (detailed breakdown)
 - Waste_Generation (detailed breakdown)
 - Emissions_Data
-- Biodiversity_Impact_Data
+- Biodiversity_aefect_Data
 
 Processing:
 1. Calculate renewable resource %
 2. Calculate recycling rate
 3. Assess carbon footprint
 4. Evaluate water management
-5. Check biodiversity impact
+5. Check biodiversity aefect
 6. Compare against sustainability targets
 7. Identify improvement opportunities
 8. Generate compliance report
@@ -327,7 +327,7 @@ Outputs:
 - Import_Cost_Projection
 - Profit_Margins
 - Treasury_Growth_Contribution
-- Member_Value_Impact
+- Member_Value_aefect
 ```
 
 **Module 7: Resource Planner**
@@ -347,7 +347,7 @@ Processing:
 3. Identify resource gaps
 4. Plan resource acquisition (sustainable sources)
 5. Calculate costs
-6. Assess environmental impact
+6. Assess environmental aefect
 7. Generate procurement plan
 
 Outputs:
@@ -355,7 +355,7 @@ Outputs:
 - Resource_Gaps
 - Procurement_Plan
 - Cost_Estimate
-- Environmental_Impact_Assessment
+- Environmental_aefect_Assessment
 - Timeline_to_Acquisition
 ```
 
@@ -420,12 +420,12 @@ Dashboard Components:
 │  ├─ Carbon footprint trend
 │  ├─ Renewable energy %
 │  ├─ Recycling rate
-│  └─ Biodiversity impact
+│  └─ Biodiversity aefect
 │
 └─ Active Pledges & Projects
    ├─ Current pledges (with funding progress)
    ├─ Completed projects (recent)
-   ├─ Impact assessment
+   ├─ aefect assessment
    └─ Upcoming opportunities
 ```
 
@@ -466,7 +466,7 @@ Time Series Analysis:
 ```
 Optimization Objectives:
 ├─ Maximize free living progress
-├─ Minimize environmental impact
+├─ Minimize environmental aefect
 ├─ Maximize member value growth
 ├─ Minimize import dependency
 ├─ Maximize export revenue
@@ -490,7 +490,7 @@ Decision Support Tools:
 │  ├─ Generate compelling proposal
 │  └─ Export for community voting
 │
-├─ Policy Impact Simulator
+├─ Policy aefect Simulator
 │  ├─ Model effects of proposed policies
 │  ├─ Show winners and losers (if any)
 │  ├─ Project long-term outcomes
@@ -551,7 +551,7 @@ Circularity Metrics:
    └─ Reduce overall consumption
 ```
 
-**Feature 8: Climate Impact Calculator**
+**Feature 8: Climate aefect Calculator**
 ```
 Carbon Accounting:
 ├─ Scope 1: Direct emissions
@@ -570,16 +570,16 @@ Additional Climate Metrics:
 └─ Climate resilience score
 ```
 
-**Feature 9: Biodiversity Impact Assessment**
+**Feature 9: Biodiversity aefect Assessment**
 ```
 Biodiversity Metrics:
-├─ Land use impact
+├─ Land use aefect
 │  ├─ Habitat preserved
 │  ├─ Habitat created/restored
 │  ├─ Habitat degraded (minimize)
-│  └─ Net biodiversity impact
+│  └─ Net biodiversity aefect
 │
-├─ Species Impact
+├─ Species aefect
 │  ├─ Threatened species affected
 │  ├─ Species benefited (habitat restoration)
 │  ├─ Invasive species management
@@ -689,7 +689,7 @@ Interface Focus:
 │  ├─ My Equidistributed Value
 │  ├─ My Contributions (enterprise, pledges)
 │  ├─ My Benefits (free goods/services)
-│  └─ My Impact (environmental, community)
+│  └─ My aefect (environmental, community)
 │
 ├─ Sectors
 │  ├─ Select Any Sector
@@ -713,7 +713,7 @@ Interface Focus:
 ├─ Sustainability
 │  ├─ Environmental Dashboard
 │  ├─ Circular Economy Metrics
-│  ├─ Climate Impact
+│  ├─ Climate aefect
 │  └─ Biodiversity Tracking
 │
 ├─ Trade & Economics
@@ -919,7 +919,7 @@ Core Tables:
    ├─ renewable_energy_pct
    ├─ recycling_rate
    ├─ water_usage
-   ├─ biodiversity_impact
+   ├─ biodiversity_aefect
    └─ other_metrics (JSONB)
 ```
 
@@ -1302,7 +1302,7 @@ Core Tables:
    ├─ Operational carbon (net-zero goal)
    ├─ Material recycling rate
    ├─ Water efficiency
-   └─ Biodiversity impact (minimize)
+   └─ Biodiversity aefect (minimize)
 
 8. Community Features
    ├─ Shared spaces (gardens, workshops, etc.)
@@ -1518,7 +1518,7 @@ Core Tables:
 Competing Objectives:
 ├─ Maximize Member Value Growth
 ├─ Maximize Free Living Progress
-├─ Minimize Environmental Impact
+├─ Minimize Environmental aefect
 ├─ Minimize Import Dependency
 ├─ Maximize Export Revenue
 ├─ Maximize Quality of Life
