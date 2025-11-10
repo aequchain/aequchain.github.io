@@ -1,6 +1,6 @@
 # EQUIDISTRIBUTED FREE ECONOMY: INTEGRATED ECOSYSTEM BUSINESS MODEL
 
-*Iterative Planning Complete | Final Comprehensive Model*
+*Iterative Planning Complete | Final Comprehensive Model* | *USD Example*
 
 ---
 
