@@ -29,7 +29,7 @@ A **Vertex** (plural: **Vertices**) is a unified processing node that eliminates
 ```
 VERTEX CORE STRUCTURE
 ├─ Unified Processing Matrix
-│  ├─ Adaptive Execution Units (AEUs)
+│  ├─ Adaptive exaction Units (AEUs)
 │  │  └─ Can reconfigure for serial OR parallel tasks
 │  ├─ Dynamic Pipeline Architecture
 │  │  └─ Self-optimizing based on instruction flow
@@ -74,7 +74,7 @@ Each vertex face contains:
 - Programming complexity
 - Power inefficiency
 
-**Vertex Solution: Adaptive Execution Units (AEUs)**
+**Vertex Solution: Adaptive exaction Units (AEUs)**
 
 Each AEU can dynamically reconfigure:
 
@@ -84,13 +84,13 @@ AEU OPERATIONAL MODES:
 SERIAL MODE (CPU-like)
 ├─ Wide instruction set
 ├─ Branch prediction
-├─ Out-of-order execution
+├─ Out-of-order exaction
 ├─ Large cache hierarchy
 └─ Few units active (high power/unit)
 
 PARALLEL MODE (GPU-like)
 ├─ Simplified instruction set
-├─ SIMD/SIMT execution
+├─ SIMD/SIMT exaction
 ├─ Minimal branching
 ├─ Shared memory focus
 └─ Many units active (low power/unit)
@@ -184,7 +184,7 @@ FCC Packing Benefits:
 
 ### Kernel Philosophy: Intrinsic Optimization
 
-Rather than measuring performance metrics and optimizing against them, the kernel **is** the only possible execution given the instruction stream and available vertices.
+Rather than measuring performance metrics and optimizing against them, the kernel **is** the only possible exaction given the instruction stream and available vertices.
 
 **Core Principles:**
 
@@ -218,7 +218,7 @@ For incoming task T:
   ├─ Propagate through mesh
   │  └─ Until optimal vertices found
   │
-  └─ Execute with continuous rebalancing
+  └─ exact with continuous rebalancing
      └─ Tasks migrate if better allocation emerges
 ```
 
@@ -249,7 +249,7 @@ UTILIZATION CURVE:
   └─ Thermal limits approached
 ```
 
-**The system never "measures" utilization—it simply executes what's possible with what's available.** The utilization emerges naturally from task demands.
+**The system never "measures" utilization—it simply exacts what's possible with what's available.** The utilization emerges naturally from task demands.
 
 ---
 
@@ -261,7 +261,7 @@ UTILIZATION CURVE:
 
 **Syntax Philosophy:**
 - Describe **what** needs computing, not **how**
-- Kernel determines optimal execution path
+- Kernel determines optimal exaction path
 - Automatic parallelization
 - Natural expression of data dependencies
 
@@ -269,7 +269,7 @@ UTILIZATION CURVE:
 
 ```flux
 // Traditional approach requires explicit parallelization
-// FLUX describes computation flow—kernel handles execution
+// FLUX describes computation flow—kernel handles exaction
 
 flow image_processing {
     input: image_stream
@@ -400,7 +400,7 @@ Task submitted to Device A:
 - Operating temperature: -20°C to 85°C
 
 **Computational:**
-- Adaptive Execution Units: 16-64 AEUs per vertex
+- Adaptive exaction Units: 16-64 AEUs per vertex
 - Configuration modes: Serial, Parallel, Hybrid
 - Memory per vertex: 128MB-2GB unified
 - Peak performance: 100 GFLOPS (parallel mode)
@@ -797,7 +797,7 @@ This is not an incremental enhancement—it's a **paradigm shift**:
 
 **The Geometric Insight**: Three-dimensional space offers dramatic advantages for computing if we shed planar manufacturing constraints. Heat dissipates better, connections are shorter, packing is denser, and scaling is natural.
 
-**The Software Breakthrough**: FLUX language describes computation flow, not execution details. The kernel optimizes automatically based on available vertices, eliminating the programmer's burden of parallelization and resource management.
+**The Software Breakthrough**: FLUX language describes computation flow, not exaction details. The kernel optimizes automatically based on available vertices, eliminating the programmer's burden of parallelization and resource management.
 
 **The Sustainability Imperative**: Computing's environmental aefect is unsustainable. Vertex architecture addresses this fundamentally through modular design, renewable materials, efficient power use, and circular economy principles.
 
