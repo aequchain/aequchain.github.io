@@ -227,7 +227,7 @@ Psychology confirms:
 **Early Childhood (Ages 3-7): Pure Positivity**
 
 **Developmental Characteristics:**
-- Concrete thinking, magical thinking present
+- Healthy thinking, magical thinking present
 - Forming basic trust, safety understanding
 - Developing emotional regulation foundations
 - Highly impressionable, limited processing capacity
