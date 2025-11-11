@@ -248,4 +248,4 @@ This vision of the **æ** Genesis Complex demonstrates:
 - **Scalable replicability** providing template for global adoption
 - **Cultural transformation** as both means and end
 
-The Complex exists not in dreams but in possibility—every element described uses current or near-current technology, follows established principles of sustainable design, and operates within the economic framework already specified by **æ**. It awaits only will, resources, and collective commitment to manifest.
+The Complex exists not of dreams rather of possibility—every element described uses current or near-current technology, follows established principles of sustainable design, operates within the economic framework already specified of **æ**. It awaits only will, resources, manifesting of collective commitment to manifest.
