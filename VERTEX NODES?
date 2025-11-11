@@ -361,7 +361,7 @@ Device D (server) → 4,096 vertices
 Connected via:
 ├─ Local: WiFi, Ethernet, Optical
 ├─ Geographic: Internet, dedicated links
-└─ Protocol: Vertex Mesh Protocol (VMP)
+└─ Protocol: Mesh Vertic Protocol (MVP)
 
 Task submitted to Device A:
 ├─ Analyzed locally—too complex
