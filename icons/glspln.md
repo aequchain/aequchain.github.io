@@ -3956,6 +3956,6 @@ Differences (Industry-Specific):
 - Both achieve same outcome: 99%+ free living, R200K+ monthly
 ```
 
-[continuation pending (not likely | errors have occured | hopefully existing information is acceptable for further *internal* evaluation)] 
+[continuation pending (not likely | errors have occured | hopefully existing information is acceptable furthering *internal* evaluation)] 
 
 🫡
