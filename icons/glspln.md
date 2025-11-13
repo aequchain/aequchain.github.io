@@ -3954,3 +3954,5 @@ Differences (Industry-Specific):
 - morophone: Phones central product
 - Building Glass Co: Glass central,  same diversification strategy
 - Both achieve same outcome: 99%+ free living, R200K+ monthly
+
+[continuation pending]
