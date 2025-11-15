@@ -801,7 +801,7 @@ This is not an incremental enhancement—it's a **paradigm shift**:
 
 **The Sustainability Imperative**: Computing's environmental aefect is unsustainable. **vertic** architecture addresses this fundamentally through modular design, renewable materials, efficient power use, and circular economy principles.
 
-**The Economic Opportunity**: Estimated market disruption potential of $100B+ over 10 years across consumer, enterprise, and cloud computing sectors.
+**The Economic Opportunity**: Estimated market displacement potential of $100B+ over 10 years across consumer, enterprise, and cloud computing sectors.
 
 ---
 
@@ -846,7 +846,7 @@ It represents:
 - **Manufacturing evolution** toward sustainable, on-demand production  
 - **Software advancement** in automatic optimization
 - **Environmental responsibility** in materials and efficiency
-- **Economic opportunity** in a $100B+ market disruption
+- **Economic opportunity** in a $100B+ market displacement
 
 **The architecture is:**
 ✓ Meticulously planned across technical, economic, and sustainability dimensions
