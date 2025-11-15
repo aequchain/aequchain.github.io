@@ -1756,7 +1756,7 @@ function integrateGovernmentSystems() {
 }
 ```
 
-#### Feature 10: Equifree Calculator
+#### Feature 10: Equifree Calculator [superceeded by: EQUIFREE CALCULATOR OF ECONOMIC EFFICIENC]
 
 **Core Functionality:**
 - Calculate living costs in EDS vs traditional
