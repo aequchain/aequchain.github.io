@@ -14,7 +14,7 @@ This document presents a comprehensive design and manufacturing plan for a premi
 
 **Market Position:** Premium sustainable electric vehicle with magnetic self-charging propulsion
 
-**Target Segment:** Environmentally-conscious premium consumers within Equidistri ed Financial Freedom networks
+**Target Segment:** Environmentally-conscious premium consumers within Equidistried Financial Freedom networks
 
 **Price Point in Traditional Economy:** $85,000-$95,000 USD equivalent
 
