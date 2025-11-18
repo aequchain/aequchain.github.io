@@ -3,6 +3,8 @@
 
 **Revolutionary Personal Flight Through Spherical Electromagnetic Levitation**
 
+// flux without ai alternative
+
 ---
 
 ## EXECUTIVE SUMMARY
