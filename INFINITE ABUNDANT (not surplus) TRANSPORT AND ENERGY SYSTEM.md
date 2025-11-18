@@ -6,6 +6,8 @@
 
 // aefect = operable placeholder
 
+*vehicles, magnetically motorised, rotating batteries simulultaneously charging, drones retrieve charged batteries, drones have similar - magnetic motor, rotating charging batteries, batteries can feed smart grid - solor, kinetic, can be added to magnetic motor charging for additional energy supply*
+
 **Core Concepts to Cover:**
 1. Magnetically motorized electricity generators (dual function: motor + generator)
 2. Graphene and transparent solar materials for vehicles
