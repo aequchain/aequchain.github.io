@@ -3,7 +3,7 @@
 
 **Revolutionary Personal Flight Through Spherical Electromagnetic Levitation**
 
-// flux without ai alternative
+// flux without ai alternative + no need of julia
 
 ---
 
