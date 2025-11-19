@@ -296,9 +296,9 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 - **Banded:** Apply in crop rows for focused root zone enhancement
 - **Top-dress:** Surface application for no-till systems, mulch effect
 
-**Soil Influence:**
+**Soil effect:**
 - **Physical:** 
-  - Improves water retention (+15-25% field capacity)
+  - enhances water retention (+15-25% field capacity)
   - Enhances aeration and structure
   - Reduces compaction in heavy soils
 - **Chemical:**
@@ -335,7 +335,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 - **Boom sprayer:** Uniform coverage, 300-500 L/hectare
 - **Drip injection:** Continuous low-dose through irrigation
 
-**Crop Influence:**
+**Crop effect:**
 - **Direct nutrition:** Rapid uptake of amino acids, potassium through stomata
 - **Systemic defense:** Compounds absorbed, distributed through phloem
 - **Foliar microbiome:** Suppresses fungal colonization (powdery mildew, botrytis)
@@ -355,7 +355,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Comparative Study Design (hypothetical optimized data):**
 
-| Parameter | Conventional Compost | Phyto-Shield + Defense System | Improvement |
+| Parameter | Conventional Compost | Phyto-Shield + Defense System | enhancement |
 |-----------|---------------------|------------------------------|-------------|
 | **Crop Yield** (tomato, kg/m²) | 8.5 | 11.2 | +32% |
 | **Pest Pressure** (insects/trap) | 45 | 8 | -82% |
@@ -431,7 +431,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Expected Results (12 weeks):**
 - 50-70% reduction in flying insect activity
-- Improved soil water retention (observable after rain)
+- enhanced soil water retention (observable after rain)
 - Healthier plant appearance (darker leaves, stronger stems)
 - Foundation established for scale-up
 
@@ -504,7 +504,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Q1-Q2: Engineering and Permitting**
 - Hire process engineer (HTC specialization)
-- Complete environmental impact assessment
+- Complete environmental effect assessment
 - Obtain industrial processing permits
 - Secure financing (combination of grants, loans, investor capital)
 - Select equipment vendors
@@ -600,9 +600,9 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 **Replication Strategy:**
 - License technology to other regions
 - Franchise model for equipment + crop protocols
-- Open-source basic protocols for developing regions (social impact)
+- Open-source basic protocols for developing regions (social effect)
 
-**Ecosystem Influence:**
+**Ecosystem effect:**
 - 1,000+ hectares treated with products
 - Regional pest pressure down 60-70%
 - Soil carbon sequestration: 2,000-3,000 tonnes CO₂e/year across customer base
@@ -739,7 +739,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 | Design temperature | 300°C (25% safety margin) |
 | Wall thickness | 25-30 mm |
 | Internal lining | Optional: Hastelloy C-276 for acidic feedstocks |
-| Agitation | Anchor stirrer, 15-30 RPM (optional, improves uniformity) |
+| Agitation | Anchor stirrer, 15-30 RPM (optional, enhances uniformity) |
 | **Heating System** ||
 | Type | Indirect steam jacket or internal coil |
 | Heat transfer area | 35-45 m² |
@@ -844,7 +844,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 ### 7.2 Allelopathy & Pest Deterrence Mechanisms
 
-**Definition:** Allelopathy is the chemical influence of plants on other organisms through release of secondary metabolites.
+**Definition:** Allelopathy is the chemical effect of plants on other organisms through release of secondary metabolites.
 
 **Mechanism 1: Insect Molting Disruption (Azadirachtin)**
 - **Source:** Neem (*Azadirachta indica*)
@@ -904,7 +904,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 **Synergistic Effects:**
 - Multiple compound classes create "chemical barrier" harder to overcome than single compound
 - Insects cannot easily evolve resistance to multi-compound mixture
-- Compounds influence different pest life stages (eggs, larvae, adults)
+- Compounds effect different pest life stages (eggs, larvae, adults)
 
 ### 7.3 Nutrient Bioavailability Enhancement
 
@@ -951,7 +951,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Key Insights:**
 - HTC products approach chemical fertilizer efficiency in uptake
-- Superior to composting by 30-50% yield improvement
+- Superior to composting by 30-50% yield enhancement
 - Faster maturation (6-8 days earlier harvest)
 - Added benefits: Pest deterrence, soil carbon sequestration, disease suppression
 
@@ -980,7 +980,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 - Arbuscular mycorrhizal fungi (AMF) colonization: 200-400% increase vs. untreated soil
 - AMF benefits:
   - Extend root nutrient acquisition range by 100-1000×
-  - Improve drought tolerance
+  - enhance drought tolerance
   - Enhance disease resistance (induced systemic resistance)
   - Access phosphorus from insoluble sources
 
@@ -1253,7 +1253,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 **Segment 1: Organic Commercial Growers (40% of revenue)**
 - **Profile:** 10-100 hectare vegetable/fruit operations, certified organic
 - **Pain points:** High organic input costs, pest management challenges, inconsistent quality
-- **Value proposition:** OMRI-certified input, combined nutrition + pest control, improved yields
+- **Value proposition:** OMRI-certified input, combined nutrition + pest control, enhanced yields
 - **Pricing:** Full price ($700/t char, $20/L liquid)
 - **Sales channel:** Direct sales team, farm visits, demonstrations
 
@@ -1321,7 +1321,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 | Organic certified | ⭐⭐⭐⭐⭐ Yes | ⭐⭐⭐⭐⭐ Yes | ⭐ No | ⭐⭐⭐⭐⭐ Yes |
 | Ease of use | ⭐⭐⭐⭐ Simple application | ⭐⭐⭐ Labor-intensive | ⭐⭐⭐⭐⭐ Very simple | ⭐⭐⭐ Requires dilution |
 | Cost per hectare | ⭐⭐⭐ Moderate ($4,700) | ⭐⭐⭐⭐ Low ($1,500) | ⭐⭐⭐⭐ Moderate ($3,000) | ⭐⭐ High ($2,000, partial solution) |
-| Environmental impact | ⭐⭐⭐⭐⭐ Carbon negative | ⭐⭐⭐ Neutral to positive | ⭐ Carbon positive, runoff | ⭐⭐⭐⭐ Positive |
+| Environmental effect | ⭐⭐⭐⭐⭐ Carbon negative | ⭐⭐⭐ Neutral to positive | ⭐ Carbon positive, runoff | ⭐⭐⭐⭐ Positive |
 
 **Unique Selling Propositions:**
 1. **"The Only Input That Feeds Plants Without Feeding Pests"** - Sterile nutrition eliminates breeding grounds
@@ -1403,13 +1403,13 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **ISO 9001:2015 (Quality Management):**
 - **Purpose:** Demonstrate consistent quality in production
-- **Benefits:** Customer confidence, process improvement, market access
+- **Benefits:** Customer confidence, process enhancement, market access
 - **Timeline:** 12-18 months to implement
 - **Cost:** $30,000-60,000 (consultant, audit, certification)
 
 **ISO 14001:2015 (Environmental Management):**
 - **Purpose:** Demonstrate environmental responsibility
-- **Benefits:** Reduced environmental impact, regulatory compliance, marketing advantage
+- **Benefits:** Reduced environmental effect, regulatory compliance, marketing advantage
 - **Timeline:** 12-18 months
 - **Cost:** $25,000-50,000
 
@@ -1475,7 +1475,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 ❌ "Controls aphids, whiteflies" (explicit pesticide claim)
 
 **Soil Health:**
-✅ "Improves soil structure, water retention, and nutrient availability"
+✅ "enhances soil structure, water retention, and nutrient availability"
 ✅ "Supports beneficial soil microbiome development"
 ✅ "Tested to increase soil carbon over time"
 
@@ -1502,7 +1502,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 1: HTC Reactor Failure or Downtime**
 - **Probability:** Medium (mechanical systems require maintenance)
-- **Influence:** High (stops production, costly repairs)
+- **effect:** High (stops production, costly repairs)
 - **Mitigation:**
   - Install 3 reactors (redundancy allows 67% capacity during single unit maintenance)
   - Preventive maintenance schedule (quarterly inspections, annual overhauls)
@@ -1512,7 +1512,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 2: Feedstock Quality Variability**
 - **Probability:** Medium (crop yields vary with weather, pests)
-- **Influence:** Medium (influences product consistency)
+- **effect:** Medium (effects product consistency)
 - **Mitigation:**
   - Diversified crop portfolio (8+ species reduces single-crop failure risk)
   - Buffer inventory (3-month feedstock supply in silos)
@@ -1522,7 +1522,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 3: Product Quality Deviations**
 - **Probability:** Low (controlled process, however possible)
-- **Influence:** High (regulatory issues, customer dissatisfaction)
+- **effect:** High (regulatory issues, customer dissatisfaction)
 - **Mitigation:**
   - Inline sensors (temperature, pressure, pH monitored continuously)
   - Batch testing before release (sterility, nutrients, heavy metals)
@@ -1532,7 +1532,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 4: Energy Supply Disruption**
 - **Probability:** Low (grid reliability generally high)
-- **Influence:** High (stops production, potential product loss in reactors)
+- **effect:** High (stops production, potential product loss in reactors)
 - **Mitigation:**
   - On-site CHP system (partial energy independence)
   - Biomass boiler backup (can provide heat if CHP down)
@@ -1543,10 +1543,10 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 5: Slow Market Adoption**
 - **Probability:** Medium (novel product category, farmer conservatism)
-- **Influence:** High (revenue below projections, cash flow strain)
+- **effect:** High (revenue below projections, cash flow strain)
 - **Mitigation:**
   - Extensive pilot programs (demonstrate results before full-scale sales)
-  - Performance guarantees (money-back if no yield improvement)
+  - Performance guarantees (money-back if no yield enhancement)
   - Flexible pricing (volume discounts, loyalty programs)
   - Educational marketing (field days, webinars, case studies)
   - Diversified customer segments (not dependent on single market)
@@ -1554,7 +1554,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 6: Price Competition from Conventional Inputs**
 - **Probability:** High (conventional fertilizers, pesticides are commoditized)
-- **Influence:** Medium (price pressure, margin compression)
+- **effect:** Medium (price pressure, margin compression)
 - **Mitigation:**
   - Differentiation on value, not just price (3-in-1 solution, carbon credits)
   - Target premium segments (organic, regenerative ag) willing to pay more
@@ -1564,7 +1564,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 7: Customer Misapplication Leading to Poor Results**
 - **Probability:** Medium (farmers may not follow instructions)
-- **Influence:** Medium (reputation damage, reduced repeat purchases)
+- **effect:** Medium (reputation damage, reduced repeat purchases)
 - **Mitigation:**
   - Clear application guidelines (visual guides, video tutorials)
   - Technical support hotline (agronomist on staff)
@@ -1576,7 +1576,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 8: Regulatory Approval Delays or Denials**
 - **Probability:** Medium (regulatory processes are lengthy, outcomes uncertain)
-- **Influence:** High (blocks market access, delays revenue)
+- **effect:** High (blocks market access, delays revenue)
 - **Mitigation:**
   - Early engagement with regulators (pre-submission meetings)
   - Phased approach (market in less-regulated categories first)
@@ -1586,7 +1586,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 9: Changes in Organic Standards**
 - **Probability:** Low (standards change slowly, however possible)
-- **Influence:** Medium (could lose organic certification, limiting market)
+- **effect:** Medium (could lose organic certification, limiting market)
 - **Mitigation:**
   - Monitor regulatory developments (industry associations, legal counsel)
   - Maintain flexibility in formulation (can adjust inputs if needed)
@@ -1595,11 +1595,11 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 10: Environmental Compliance Issues**
 - **Probability:** Low (process is inherently clean, however monitoring required)
-- **Influence:** High (fines, shutdown orders, reputation damage)
+- **effect:** High (fines, shutdown orders, reputation damage)
 - **Mitigation:**
   - Environmental management system (ISO 14001)
   - Continuous monitoring (emissions, wastewater, noise)
-  - Buffer zones around facility (minimize community influence)
+  - Buffer zones around facility (minimize community effect)
   - Regular third-party audits (verify compliance)
   - Community relations program (transparent communication, open houses)
 
@@ -1607,7 +1607,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 11: Capital Overruns During Construction**
 - **Probability:** Medium (construction projects often exceed budget)
-- **Influence:** High (depletes reserves, may require additional financing)
+- **effect:** High (depletes reserves, may require additional financing)
 - **Mitigation:**
   - Detailed engineering and costing (reduce unknowns)
   - Fixed-price contracts with vendors (transfer risk to contractors)
@@ -1617,17 +1617,17 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 12: Difficulty Securing Financing**
 - **Probability:** Medium (novel technology, limited comparable projects)
-- **Influence:** High (cannot proceed without capital)
+- **effect:** High (cannot proceed without capital)
 - **Mitigation:**
   - Comprehensive business plan (address investor concerns proactively)
   - Pilot-scale demonstration (de-risk technology before seeking major funding)
   - Diversified funding sources (equity, debt, grants, vendor financing)
   - Strategic partnerships (joint ventures with established agricultural companies)
-  - Government programs (USDA grants, green bonds, impact investors)
+  - Government programs (USDA grants, green bonds, effect investors)
 
 **Risk 13: Commodity Price Fluctuations**
 - **Probability:** High (agricultural inputs and products are cyclical)
-- **Influence:** Medium (influences revenues and costs)
+- **effect:** Medium (effects revenues and costs)
 - **Mitigation:**
   - Long-term contracts (lock in prices for key customers)
   - Hedging strategies (if significant input costs are commoditized)
@@ -1639,7 +1639,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 14: Intellectual Property Challenges**
 - **Probability:** Low (process is not fundamentally novel, however combinations may be patentable)
-- **Influence:** Medium (could face patent disputes or lose competitive advantage)
+- **effect:** Medium (could face patent disputes or lose competitive advantage)
 - **Mitigation:**
   - Patent landscape analysis (ensure not infringing existing patents)
   - File process patents (protect specific parameter combinations, crop blends)
@@ -1649,7 +1649,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 15: Technology Obsolescence**
 - **Probability:** Low (HTC is proven technology, unlikely to be rapidly superseded)
-- **Influence:** Medium (could lose competitive edge if better processes emerge)
+- **effect:** Medium (could lose competitive edge if better processes emerge)
 - **Mitigation:**
   - Continuous R&D (5% of revenue invested in process optimization)
   - Technology monitoring (track emerging alternatives like plasma gasification)
@@ -1659,7 +1659,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
 
 **Risk 16: Key Personnel Dependency**
 - **Probability:** Medium (specialized knowledge in HTC, agriculture)
-- **Influence:** High (loss of critical expertise slows operations)
+- **effect:** High (loss of critical expertise slows operations)
 - **Mitigation:**
   - Competitive compensation and benefits (retain top talent)
   - Succession planning (cross-training, documented procedures)
@@ -1681,7 +1681,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
   - Pressure: 12-25 bar (varies with temperature)
   - Feedstock ratios: 50/50, 60/40, 70/30 (Nutrient/Defense)
 - **Metrics:** Char yield, nutrient retention, allelopathic compound stability, energy efficiency
-- **Expected outcome:** 10-15% improvement in process efficiency, 20-30% energy reduction
+- **Expected outcome:** 10-15% enhancement in process efficiency, 20-30% energy reduction
 - **Investment:** $50,000 (lab-scale reactor, analytical testing)
 
 **Objective 2: Crop Genetics & Breeding**
@@ -1705,7 +1705,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
   - Foliar spray timing (morning vs. evening, frequency)
   - Fertigation systems (drip, sprinkler integration)
   - Seed coating applications (inoculant replacement)
-- **Expected outcome:** 10-20% improvement in nutrient uptake, pest control
+- **Expected outcome:** 10-20% enhancement in nutrient uptake, pest control
 - **Investment:** $30,000 (field trials, equipment testing)
 
 ### 11.2 Medium-Term Enhancements (Years 3-7)
@@ -1739,7 +1739,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
   - Conduct trials with partner farms in target regions
   - Adjust crop ratios, processing parameters for specific needs
   - Develop premium product lines (10-20% price premium)
-- **Expected outcome:** Access to niche markets, 15-25% margin improvement on specialty products
+- **Expected outcome:** Access to niche markets, 15-25% margin enhancement on specialty products
 - **Investment:** $120,000 (formulation research, field trials, marketing)
 
 **Objective 6: Automation & Digitalization**
@@ -1749,7 +1749,7 @@ This system transforms agricultural waste and purpose-grown crops into **sterile
   - **Predictive maintenance:** Sensors detect equipment degradation before failure
   - **Blockchain traceability:** Track every batch from field to customer for premium transparency
   - **Remote monitoring:** IoT sensors enable off-site oversight, reduce labor
-- **Expected outcome:** 15-20% reduction in labor costs, 10% improvement in uptime, premium pricing for traceable product
+- **Expected outcome:** 15-20% reduction in labor costs, 10% enhancement in uptime, premium pricing for traceable product
 - **Investment:** $200,000-400,000 (sensors, software, integration)
 
 ### 11.3 Long-Term Vision (Years 7-15)
