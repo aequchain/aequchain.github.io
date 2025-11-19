@@ -131,7 +131,7 @@ Our platform comprises three integrated components:
 - Cultural richness flourishes without commercialization pressure
 - Tourism revenue strengthens treasury for all members
 - International exposure increases export opportunities
-- Positive reputation compounds over time
+- Positive reputation accumulates over time
 
 **Immigration Economic Advantages**
 - Attracts global talent seeking ethical economic system
@@ -275,7 +275,7 @@ Our platform comprises three integrated components:
 - Global knowledge sharing encouraged
 - Scientific advancement benefits all equally
 - Medical research accelerates
-- Technological progress compounds
+- Technological progress accumulates
 
 **Intellectual Property Revolution**
 - Knowledge sharing maximized
@@ -591,7 +591,7 @@ Our platform comprises three integrated components:
 - Self-sufficiency achieved organically
 - Economic resilience strengthened
 - Opportunities multiply
-- Innovation compounds
+- Innovation accumulates
 - Prosperity accelerates
 
 **Population Growth Benefits**
