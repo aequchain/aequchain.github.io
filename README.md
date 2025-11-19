@@ -89,7 +89,7 @@ Our platform comprises three integrated components:
 - Reduced vulnerability to external economic pressures
 
 **Debt Management and Elimination**
-- Export profits can rapidly address national debt (South African example: potential clearance in 2.86 years)
+- Export profits can rapidly address national debt
 - Post-debt, all profits increase member treasury shares
 - Path to becoming debt-free nation
 - Liberation from debt service obligations
