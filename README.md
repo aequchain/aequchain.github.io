@@ -1,4 +1,4 @@
-# **Equidistributed Free Economy (EFE)**:  Toward Free Living**
+# **Equidistributed Free Economy (EFE)**:  Toward Free Living
 
 COMPLETE GUIDE:
 https://aeuqchain.github.io
