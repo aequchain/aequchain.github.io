@@ -1,7 +1,7 @@
 # STERILE AGRICULTURE
 ## Complete Blueprint & Implementation Schematics
 
-// tragectogy expansion (read first "TRAGECTOGY" : concise) | of EFE approach not "credit" system [ignore monetary figures: clearly ecological economical (no claim of owning "ECO")]
+// tragectogy expansion (read first "CONCISE:") | of EFE approach not "credit" system [ignore monetary figures: clearly ecological economical (no claim of owning "ECO")]
 
 **Status:** optibest Framework Verified  
 **Optimization Level:** Macro-Scale Industrial Paradigm  
