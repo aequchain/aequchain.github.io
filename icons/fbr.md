@@ -1,4 +1,4 @@
-# RESEARCH PROJECT VITA-MATRIX
+# RESEARCH PROJECT: VITA-MATRIX
 
 **FRAMEWORK CALIBRATION**
 **Task Magnitude:** MACRO (Global textile paradigm shift)
