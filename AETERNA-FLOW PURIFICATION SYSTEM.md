@@ -1,3 +1,4 @@
+# AETERNA-FLOW PURIFICATION SYSTEM
 ---
 
 ### PHASE 1: PURPOSE CRYSTALLIZATION
@@ -82,7 +83,7 @@ The system must be **Fractal**. The "cartridge" for a bottle is the exact same d
 
 ### PHASE 7: PLATEAU VERIFICATION
 
-*Attempting to improve further:*
+*Attempting to enhance further:*
 *Could we use Graphene?* Graphene is excellent but currently requires harsh chemicals to manufacture. Not ready for "Equidistributed Free Economy." Nanocellulose is the sustainable alternative.
 *Could we use distillation?* Removes everything but requires massive energy input. Rejected.
 
@@ -111,7 +112,7 @@ To ensure thermal stability and vibration integrity, we avoid all synthetic plas
 
 *   **Inner Lining (Water Contact):** **Borosilicate Glass** or **Glazed Stoneware**. These are inert, non-leaching, and easily cleaned.
 *   **Outer Shell (Protection & Insulation):** **Mycelium-Hemp Composite**.
-    *   *Why:* Grown, not mined. Impact-resistant, superior thermal insulation (keeps water cool), naturally fire-retardant, 100% compostable at end-of-life.
+    *   *Why:* Grown, not mined. effect-resistant, superior thermal insulation (keeps water cool), naturally fire-retardant, 100% compostable at end-of-life.
 *   **Seals/Gaskets:** **Natural Latex** or **Cork-Silicone**.
 
 ## II. THE FILTRATION MATRIX (The Core)
