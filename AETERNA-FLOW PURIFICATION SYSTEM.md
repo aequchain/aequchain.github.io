@@ -43,7 +43,7 @@ Convention dictates using Reverse Osmosis (RO) for "pure" water.
 *Critique:* Resins are usually synthetic plastics (fails biodegradability). Silver is effective but can leach; heavy metal accumulation is a risk.
 *Result:* Reject.
 
-**Iteration 3: The "Apex-Vitalis" (Current Baseline)**
+**Iteration 3: The "Vitalis" (Current Baseline)**
 *Concept:*
 1.  **Pre-filter:** Moringa Oleifera Seed protein (natural coagulant).
 2.  **Micro-filter:** Sintered Diatomaceous Earth (Diatomite).
@@ -96,12 +96,12 @@ Is the Biochar/Zeolite mix safe? Yes. By sintering it into a solid block, we pre
 
 ### PHASE 9: OPTIBEST DECLARATION
 
-**APOTHEOSIS NE PLUS ULTRA DESIGN COMPLETE.**
+**DESIGN COMPLETE.**
 Below is the generated comprehensive blueprint.
 
 ***
 
-# THE "AETERNA-FLOW" APEX PURIFICATION SYSTEM
+# THE "AETERNA-FLOW" PURIFICATION SYSTEM
 **Classification:** Ne Plus Ultra / Bio-Regenerative
 **Application:** Fractal Scalability (Personal to Municipal)
 **Sustainability:** 100% Biodegradable/Inert Lifecycle
@@ -184,4 +184,4 @@ To manufacture this system in an Equidistributed Free Economy:
 *   **Is it Safe?** Yes. Copper and Silver-free antimicrobial action prevents bacterial bloom.
 *   **Is it Sustainable?** Yes. No plastics. All materials return to the earth as soil amendments.
 
-This is the **Apotheosis**. It treats water not just as a chemical (H2O) but as a living system. It cleans physically, chemically, biologically, and energetically.
+It treats water not just as a chemical (H2O) but as a living system. It cleans physically, chemically, biologically, and energetically.
