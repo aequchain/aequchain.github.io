@@ -6,7 +6,7 @@
 
 **How it works:**
 - Intul builds capacity to meet local demand PLUS export targets
-- Local allocation comes "first" (covered by EC/pledges for operational costs)
+- [note: not sure this point is neccessary though...] Local allocation comes "first" (covered by EC/pledges for operational costs)
 - Everything beyond local needs = Intul's export profit
 - Intul gets: no salary costs, motivated workforce, operational funding via EC
 - EquiNation gets: free processors locally, jobs, technology transfer
