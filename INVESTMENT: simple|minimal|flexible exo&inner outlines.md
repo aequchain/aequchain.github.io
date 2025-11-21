@@ -27,7 +27,7 @@
 - Zero salary overhead
 - Subsidized operations (EC covers local costs)
 - Price flexibility on exports (near-zero production cost)
-- Can dominate markets or maximize profits
+- Can expand through large markets or maximize profits
 
 **Key principle:** 
 International investment works BEST when factories are scaled to serve both local (free) and export (profit) simultaneously. Seperate simultaneous operations could work as well (refer Sibling Company below)
