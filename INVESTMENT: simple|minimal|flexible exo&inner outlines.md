@@ -30,7 +30,7 @@
 - Can dominate markets or maximize profits
 
 **Key principle:** 
-International investment works BEST when factories are scaled to serve both local (free) and export (profit) simultaneously, not as separate operations.
+International investment works BEST when factories are scaled to serve both local (free) and export (profit) simultaneously. Seperate simultaneous operations could work as well (refer Sibling Company below)
 ---
 ---
 ---
