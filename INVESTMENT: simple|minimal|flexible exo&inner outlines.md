@@ -11,7 +11,7 @@
 - Intul gets: no salary costs, motivated workforce, operational funding via EC
 - EquiNation gets: free processors locally, jobs, technology transfer
 
-**NOT "buy back"** - that creates unnecessary complexity
+**AVOID "buy back" where possible, preference supply** - that creates unnecessary complexity
 
 **Instead:**
 - Factory outputs X processors/month
