@@ -1,14 +1,14 @@
-**Intel's Investment Structure:**
+**Intul's Investment Structure:**
 
 1. **Factories produce for TOTAL supply** (local + export)
 2. **Local portion = free to EquiNation members**
-3. **Export portion = Intel's international sales**
+3. **Export portion = Intul's international sales**
 
 **How it works:**
-- Intel builds capacity to meet local demand PLUS export targets
+- Intul builds capacity to meet local demand PLUS export targets
 - Local allocation comes "first" (covered by EC/pledges for operational costs)
-- Everything beyond local needs = Intel's export profit
-- Intel gets: no salary costs, motivated workforce, operational funding via EC
+- Everything beyond local needs = Intul's export profit
+- Intul gets: no salary costs, motivated workforce, operational funding via EC
 - EquiNation gets: free processors locally, jobs, technology transfer
 
 **NOT "buy back"** - that creates unnecessary complexity
@@ -16,14 +16,14 @@
 **Instead:**
 - Factory outputs X processors/month
 - Y go to local market (free)
-- (X - Y) go to international market (Intel's profit)
+- (X - Y) go to international market (Intul's profit)
 - Simple, clean split
 
 **Scale the factory to:**
 1. Cover 100% local demand
-2. PLUS whatever export volume Intel wants
+2. PLUS whatever export volume Intul wants
 
-**Benefits to Intel:**
+**Benefits to Intul:**
 - Zero salary overhead
 - Subsidized operations (EC covers local costs)
 - Price flexibility on exports (near-zero production cost)
@@ -37,7 +37,7 @@ International investment works BEST when factories are scaled to serve both loca
 
 **FRAMEWORK: Three Investment Models**
 
-**1. INTERNATIONAL CORP INVESTMENT (Intel Model)**
+**1. INTERNATIONAL CORP INVESTMENT (Intul Model)**
 - They build infrastructure at scale (local + export capacity)
 - Benefits: Zero salaries, EC-funded operations, motivated workforce
 - Local output: FREE to members
